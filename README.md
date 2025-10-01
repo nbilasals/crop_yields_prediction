@@ -1,4 +1,4 @@
-# cUrbanization &amp; Climate Impact on Crop Yields
+# Urbanization &amp; Climate Impact on Crop Yields
 
 # Urbanization Impact on Climate and Crop Yields Analysis
 
