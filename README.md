@@ -8,11 +8,10 @@ This project analyzes the relationship between urbanization, local climate patte
 
 ## Key Questions Addressed
 
-- How does urbanization affect local rainfall and temperature patterns?
+- How does urbanization affect local rainfall?
 - What is the relationship between urban development and crop productivity?
 - Which factors most strongly predict agricultural yields?
-- What trends can inform future agricultural planning?
-
+- 
 ##  Requirements
 
 ### Python Version
