@@ -75,12 +75,6 @@ The analysis includes 15+ visualizations covering:
 - Bar charts for comparative analysis
 
 
- 📚 References
-
-- World Urbanization Prospects - UN Department of Economic and Social Affairs
-- Global Climate Datasets - [Specify sources]
-- Agricultural Statistics - [Specify sources]
-
 
 ---
 
